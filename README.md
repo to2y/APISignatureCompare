@@ -4,7 +4,7 @@ APISignatureCompare
 Simple tool for comparing the difference of API methods
 
 usage:
-java -cp . jp.aegif.tools.APICompare <sourcecode location1> <sourcecode location2> <compareClassListFile>
+java -cp . jp.aegif.tools.APICompare &lt;sourcecode location1&gt; &lt;sourcecode location2&gt; &lt;compareClassListFile&gt;
 
 compareClassListFile is list of file path for java class source:
 
